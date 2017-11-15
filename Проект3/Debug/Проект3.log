@@ -1,0 +1,33 @@
+﻿Сборка начата 15.11.2017 19:31:55.
+     1>Проект "D:\VS2013\Проект3\Проект3\Проект3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Book.cpp Labrary.cpp "Исходный код.cpp"
+         Labrary.cpp
+     1>d:\vs2013\проект3\проект3\labrary.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\vs2013\проект3\проект3\labrary.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\vs2013\проект3\проект3\labrary.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\vs2013\проект3\проект3\labrary.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\vs2013\проект3\проект3\labrary.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\vs2013\проект3\проект3\labrary.cpp(134): warning C4018: <: несоответствие типов со знаком и без знака
+         Создание кода...
+     1>d:\vs2013\проект3\проект3\labrary.cpp(27): warning C4715: Labrary::GetBook1: значение возвращается не при всех путях выполнения
+     1>d:\vs2013\проект3\проект3\labrary.cpp(44): warning C4715: Labrary::GetBook2: значение возвращается не при всех путях выполнения
+     1>d:\vs2013\проект3\проект3\labrary.cpp(62): warning C4715: Labrary::GetBook3: значение возвращается не при всех путях выполнения
+         Компиляция...
+         Исходный код.cpp
+     1>d:\vs2013\проект3\проект3\исходный код.cpp(86): warning C4101: index: неиспользованная локальная переменная
+     1>d:\vs2013\проект3\проект3\исходный код.cpp(108): warning C4101: index: неиспользованная локальная переменная
+     1>d:\vs2013\проект3\проект3\исходный код.cpp(130): warning C4101: index: неиспользованная локальная переменная
+         Создание кода...
+         Пропуск... (изменения не обнаружены)
+         Book.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2013\Проект3\Debug\Проект3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS2013\Проект3\Debug\Проект3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2013\Проект3\Debug\Проект3.lib" /MACHINE:X86 Debug\Book.obj
+         Debug\Labrary.obj
+         "Debug\Исходный код.obj"
+         Проект3.vcxproj -> D:\VS2013\Проект3\Debug\Проект3.exe
+     1>Сборка проекта "D:\VS2013\Проект3\Проект3\Проект3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.53
